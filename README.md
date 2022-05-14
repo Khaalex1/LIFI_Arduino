@@ -7,4 +7,6 @@ to make it simple, to each letter of the alphabet corresponds a certain duration
 
 A code was used for a simulation in SimulIDE while another (practically the same code) was used for a physical Arduino card.
 
+The tests in the simulation aswell as with the physical card, prove that the PPM modulation is a viable and easy technique to implement. However we must note that it is rather unprotected and that it is sensitive to external perturbations.
+
 Further explanations are provided in the report (in french).
