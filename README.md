@@ -1,6 +1,6 @@
 # LIFI_Arduino
 
-Arduino academic project made with my friend J. FOYANG NZEDOM during our first year in engineering school, in particular for the Digital Electronics course delivered by Dr. B. ZERR.
+Arduino academic project made with my friend J. FOYANG NZEDOM during our first year in engineering school, for the Digital Electronics course.
 
 It illustrates a LIFI communication using the rudimentary modulation technique known as PPM : 
 to make it simple, to each letter of the alphabet corresponds a certain duration of light emission, which is its signature.
